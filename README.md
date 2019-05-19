@@ -1,0 +1,2 @@
+# Lambda_2
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/15a1c0f711824ca7a14416c96fa9be8a)](https://app.codacy.com/app/rellingeorge/Lambda_2?utm_source=github.com&utm_medium=referral&utm_content=rellingeorge/Lambda_2&utm_campaign=Badge_Grade_Settings)
